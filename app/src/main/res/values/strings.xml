@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Mi Agenda</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="hint_nombre">Nombre Completo</string>
+    <string name="hint_fecha_nac">Fecha de Nacimiento</string>
+    <string name="hint_telefono">Telefono</string>
+    <string name="hint_email">Correo electrónico</string>
+    <string name="hint_descripcion">Descripción de contacto</string>
+    <string name="button_siguiente">Siguiente</string>
+    <string name="button_editar">Editar Datos</string>
+    <string name="confirmar_datos">Confirmar Datos</string>
+    <string name="formulario">Datos de Contacto</string>
+</resources>
